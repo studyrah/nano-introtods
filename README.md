@@ -1,4 +1,4 @@
 nano-introtods
 ==============
 
-All my Intro to Data Science excercises and projects
+All my Intro to Data Science excercises and projects!
